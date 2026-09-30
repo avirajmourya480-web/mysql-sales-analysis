@@ -82,4 +82,4 @@ SQL | Data Analysis | Relational Databases | MySQL | Joins | Aggregations | Wind
 
 ## Author
 
-Avi
+Aviraj mourya
